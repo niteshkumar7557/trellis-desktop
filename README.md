@@ -4,9 +4,9 @@ Downloads of the Trellis desktop app. Trellis itself is at
 **https://trellis.niteshkumar.xyz**: a study map that shows what to study next, what you
 can skip, and the earlier topic that's really why you're stuck.
 
-The app opens Trellis in its own window and adds a menu, a menu-bar icon, a daily study
-reminder, a shortcut that works from any app (**⌃⌥T**: Control + Option + T), and Google
-sign-in through your own browser.
+The app opens Trellis in its own window and adds a menu, a menu-bar icon, a shortcut that
+works from any app (**⌃⌥T**: Control + Option + T), and Google sign-in through your own
+browser. Like the website, it never reminds or nags you.
 
 This repository holds only the releases. The source code is private.
 
@@ -34,5 +34,5 @@ replace the old one.
 
 ## Privacy
 
-The app stores only its window position and your reminder setting on your Mac. Your
+The app stores only its window position on your Mac. Your
 account and study record live on the Trellis server, as on the website.
